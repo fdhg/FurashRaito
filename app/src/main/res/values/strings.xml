@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FurashRaito</string>
+
+    <string name="dialogTitle">Error</string>
+    <string name="dialogMessage">Sorry, your device doesn\'t have flashlight support</string>
+    <string name="dialogOK">OK</string>
+</resources>
